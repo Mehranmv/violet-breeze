@@ -14,7 +14,7 @@
 - Fans of elegant color schemes that remain stylish without distraction.
 
 ### Preview 🌈
-![Violet Breeze Preview](https://your-image-link-here)  
+![Violet Breeze Preview](themes\image.png)  
 (*Add a screenshot of your theme in action*)
 
 ### Installation 📦

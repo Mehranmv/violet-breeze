@@ -3,6 +3,11 @@
   "displayName": "Violet Breeze",
   "description": "A soothing and vibrant theme that combines soft light tones with elegant shades of purple. Designed for clarity and style, this theme offers a refreshing visual experience, perfect for extended coding sessions. Let the gentle hues of violet guide you through your projects with ease and comfort.",
   "version": "0.0.1",
+  "publisher": "Mehran Mirzaei",
+  "author": {
+    "name": "Mehran Mirzaei",
+    "email": "mehranmirzaeiv@example.com"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -17,5 +22,9 @@
         "path": "./themes/Violet Breeze-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mehranmv/violet-breeze.git"
   }
 }
