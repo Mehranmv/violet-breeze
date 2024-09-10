@@ -15,7 +15,6 @@
 
 ### Preview 🌈
 ![Violet Breeze Preview](themes/image.png)  
-(*Add a screenshot of your theme in action*)
 
 ### Installation 📦
 1. Open Visual Studio Code.
